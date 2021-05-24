@@ -1,0 +1,19 @@
+{
+  "name": "reloj-js",
+  "version": "1.0.0",
+  "description": "reloj en javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maxy96/reloj-js.git"
+  },
+  "author": "maxy espindola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxy96/reloj-js/issues"
+  },
+  "homepage": "https://github.com/maxy96/reloj-js#readme"
+}
